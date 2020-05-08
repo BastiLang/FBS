@@ -1,0 +1,1 @@
+-wto "501a13073d554ba285c5568ae31864d5" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "PAR2SER_behav" "xil_defaultlib.PAR2SER" -log "elaborate.log" 

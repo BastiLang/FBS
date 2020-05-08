@@ -1,0 +1,7 @@
+Running: xsim.dir/TB_AD_Gensimu_behav/xsimk.exe -simmode gui -wdb TB_AD_Gensimu_behav.wdb -simrunnum 0 -socket 56933
+Design successfully loaded
+Design Loading Memory Usage: 5336 KB (Peak: 5336 KB)
+Design Loading CPU Usage: 77 ms
+Simulation completed
+Simulation Memory Usage: 14092 KB (Peak: 14092 KB)
+Simulation CPU Usage: 468 ms
